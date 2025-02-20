@@ -3,7 +3,7 @@ Nu, a 5-axis 3d printer
 
 Design inspired by this video: [https://www.youtube.com/watch?v=VEgwnhLHy3g&ab_channel=JoshuaBird](https://www.youtube.com/watch?v=VEgwnhLHy3g&ab_channel=JoshuaBird)
 
-**Author:** @Magic (slack), [@Magicninja7](https://github.com/Magicninja7) (github)
+**Author:** @Magic (slack), [@Magicninja7](https://github.com/Magicninja7) (github)  
 **Repository:** [https://github.com/Magicninja7/Nu/](https://github.com/Magicninja7/Nu/edit/main/README.md)  
 **Total Time Spent:** 1 hour
 
