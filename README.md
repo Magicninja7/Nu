@@ -12,7 +12,7 @@ Design inspired by this video: [https://www.youtube.com/watch?v=VEgwnhLHy3g&ab_c
  - circular printbed + cantilevered design
  - 5 axis:
    - c axis of printbed
-   - x, y, z axis of cantilever
+   - x, z axis of dual-arm system
    - b axis of nozzle
 
 # Goals
@@ -25,9 +25,14 @@ Design inspired by this video: [https://www.youtube.com/watch?v=VEgwnhLHy3g&ab_c
 
 # Log
 **Day 0**
-  - 20, 21, 22 febuary 2025
-  - Today i have visualised basic mechanics
-  - RESEARCH 
+  - 20 - 26 febuary 2025
+  - RESEARCH
+  - approx. 10 hours
 i mainly use reprap forum, yt videos about mechanical features, learning about advantages of certain designs over other (ex ball screw, vs normal, or belt vs gears)
-i also am actively analysing every word in this excellent guide: [drdflo](https://www.drdflo.com/pages/Guides/How-to-Build-a-3D-Printer/FFF.html). I often use search in chatgpt to clarify concepts. The last 3 hours were spent analysing, and trying to think of a design on my blackboard.
+i also am actively analysing every word in this excellent guide: [drdflo](https://www.drdflo.com/pages/Guides/How-to-Build-a-3D-Printer/FFF.html). 
+I have finalised all design, choices, drew some more complex ones on paper, and am starting to create a BOM.
+Basically:
+ - circular heated printbed 200mm in diamater
+ - 220mm, 10mm [sliding rods for printbed](https://www.aliexpress.com/item/33036180370.html)
+ - 
 
