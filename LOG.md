@@ -6,7 +6,7 @@ Design inspired by this video: [https://www.youtube.com/watch?v=VEgwnhLHy3g&ab_c
 
 **Author:** @Magic (slack), [@Magicninja7](https://github.com/Magicninja7) (github)  
 **Repository:** [https://github.com/Magicninja7/Nu/](https://github.com/Magicninja7/Nu/edit/main/README.md)  
-**Total Time Spent:** 3 hour
+**Total Time Spent:** 10 hour
 
 # Project specifics
  - no set largness yet, but printbed is 200mm in diamater, and ill build around it
